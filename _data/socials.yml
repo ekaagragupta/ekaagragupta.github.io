@@ -9,7 +9,6 @@ medium_username: ekaagrag2006
 instagram_username: ekaagragupta
 
 custom_social:
-  leetcode:
-    logo: /assets/img/leetcode.svg
-    title: LeetCode
-    url: https://leetcode.com/u/ekaagragupta
+  logo: /assets/img/leetcode.svg
+  title: LeetCode
+  url: https://leetcode.com/u/ekaagragupta
