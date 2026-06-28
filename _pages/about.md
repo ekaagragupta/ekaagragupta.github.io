@@ -5,9 +5,11 @@ permalink: /
 subtitle: academics by day, code by night
 
 profile:
+profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: false
+  width: 260
   more_info: >
     <p>Rajasthan,India </p>
     <p><a href="mailto:ekaagrag2006@gmail.com">ekaagrag2006@gmail.com</a></p>

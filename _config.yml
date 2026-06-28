@@ -1,8 +1,7 @@
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
-
-title: Ekaagra Gupta # the website title (if blank, full name will be used instead)
+title: "<strong style='font-weight:900;'>Ekaagra</strong> Gupta"
 first_name: Ekaagra
 middle_name: 
 last_name: Gupta
@@ -91,7 +90,7 @@ posts_in_search: true
 bib_search: true
 
 # Dimensions
-max_width: 800px
+max_width: 1200px # maximum width of the main content area
 
 # -----------------------------------------------------------------------------
 # Open Graph & Schema.org
