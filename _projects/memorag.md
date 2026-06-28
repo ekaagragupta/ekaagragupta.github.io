@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 1
+title: mem0RAG
 description: with background image
-img: assets/img/12.jpg
+img: assets/img/memorag_case.jpg
 importance: 1
 category: work
-related_publications: true
+related_publications: false
 ---
 
 Every project has a beautiful feature showcase page.
