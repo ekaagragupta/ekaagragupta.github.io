@@ -1,7 +1,7 @@
 ---
 layout: page
 title: memoRAG
-description: A memory-augmented retrieval-augmented generation (RAG) framework that overcomes the core limitations of standard RAG systems when handling long, complex documents.
+description: Memory-augmented retrieval-augmented generation (RAG) framework
 img: assets/img/tech_case.jpg
 importance: 1
 category: work
