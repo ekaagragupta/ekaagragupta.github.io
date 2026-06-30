@@ -1,52 +1,42 @@
 ---
 layout: page
 title: memoRAG
-description: with background image
-img: assets/img/12.jpg
+description: A memory-augmented retrieval-augmented generation (RAG) framework that overcomes the core limitations of standard RAG systems when handling long, complex documents.
+img: assets/img/tech_case.jpg
 importance: 1
 category: work
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Standard RAG systems retrieve document chunks directly from a query. This works for simple lookups but fails for:
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+- <strong>Questions requiring global context</strong> :  e.g. "Which year had peak revenue?" when peaks span multiple sections
+- <strong>High-level aggregation</strong> : e.g. "How did the pandemic impact the company?" requires synthesizing many passages
+- <strong>Open-ended summarization</strong> : summary instructions aren't directly searchable
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+
+MemoRAG addresses all three failure modes by using a lightweight memory model to first recall relevant clues and draft candidate answers, then retrieve precise evidence, then generate the final response by first building a compressed global memory of the full context, MemoRAG enables the retriever to be globally aware — generating precise clues and surrogate queries before retrieval, resulting in dramatically more accurate and complete answers.
+
+### Repository
+
+The complete implementation is available on
+[GitHub](https://github.com/ekaagragupta/mem0RAG).
+
+<div class="row justify-content-center">
+    <div class="col-sm-10">
+        <video controls autoplay muted loop class="img-fluid rounded z-depth-1">
+            <source src="/assets/video/demo.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+        </video>
     </div>
 </div>
+
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
+    Demo of the memoRAG retrieval pipeline.
 </div>
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
