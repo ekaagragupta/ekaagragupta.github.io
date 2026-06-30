@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
-img:
-importance: 4
-category: fun
+title: aigrandchallenge
+description: 
+img: assets/img/9.jpg
+importance: 2
+category: open-source
+giscus_comments: true
 ---
 
 Every project has a beautiful feature showcase page.

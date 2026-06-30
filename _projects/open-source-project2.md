@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
-importance: 3
-category: fun
+title: AgriBazaar
+description: 
+img: assets/img/9.jpg
+importance: 2
+category: open-source
+giscus_comments: true
 ---
 
 Every project has a beautiful feature showcase page.

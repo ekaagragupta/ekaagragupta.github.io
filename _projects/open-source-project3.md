@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
-img: assets/img/1.jpg
-importance: 3
-category: fun
+title: SCR Gaming
+description: 
+img: assets/img/9.jpg
+importance: 2
+category: open-source
+giscus_comments: true
 ---
 
 Every project has a beautiful feature showcase page.
