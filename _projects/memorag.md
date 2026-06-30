@@ -2,7 +2,7 @@
 layout: page
 title: memoRAG
 description: Memory-augmented retrieval-augmented generation (RAG) framework
-img: assets/img/tech_case.jpg
+img: assets/img/publication_preview/memo.gif
 importance: 1
 category: work
 related_publications: true
