@@ -4,7 +4,7 @@ cv:
   email: ekaagrag2006@gmail.com
   location: Rajasthan , India
   image: [/assets/images/prof_pic.jpg]
-  summary: I am a highly motivated and passionate computer science undergraduate with a strong interest in artificial intelligence and machine learning. I have a solid foundation in computer science principles and programming languages, and I am eager to apply my skills to real-world problems. I am a quick learner, a team player, and I thrive in collaborative environments. My goal is to contribute to the development of innovative AI solutions that can make a positive impact on society.
+  summary: Pre-final year AI/ML undergrad. I build things that retrieve, reason, and explain — from satellite anomaly detectors to hybrid RAG pipelines to a Full stack Application
 
   social_networks:
     - network: Instagram
@@ -30,11 +30,17 @@ cv:
         studyType: Bachelor of Technology 
         start_date: 2024
         end_date: 2028
-        score: " chpa"
-        courses: "Theory of Relativity"
-        highlights:
-          - Description 1.
-          - Description 2.
+        courses: "
+          Data Structures and Algorithms
+          - Database Management Systems
+          - Computer Networks
+          - Operating Systems
+          - Agile Software Development
+          - Artificial Intelligence
+          - Machine Learning
+          - Deep Learning
+          - Natural Language Processing
+          - Computer Vision"
 
       - institution: Warren academy 
         location: Rajasthan , India
@@ -43,9 +49,10 @@ cv:
         studyType: High School Diploma
         start_date: 2014
         end_date: 2024
-        highlights:
-          - Description 1.
-          - Description 2.
+        courses: "
+          Physics
+          - Chemistry
+          - Mathematics"
 
     Experience:
       - company: Malaviya National Institute of Technology Jaipur (MNIT)
@@ -53,121 +60,118 @@ cv:
         location: Jaipur, Rajasthan
         start_date: May 2026 
         end_date: July 2026
-        summary: Led a modular Retrieval-Augmented Generation (RAG) pipeline with hybrid dense and sparse retrieval.
-        highlights:
-          - Relativity
-          - Description 2.
+        summary: Engineering a production-scale Retrieval-Augmented Generation (RAG) system integrating dense retrieval, lexical retrieval, transformer-based reranking, and GPU-optimized large language model inference. The project involves memory-efficient document indexing, metadata-aware retrieval optimization, vLLM-based inference acceleration, FlashAttention, KV-cache optimization, continuous batching, and comprehensive benchmarking of latency, throughput, memory footprint, and retrieval quality across large document corpora.
 
       - company: coreGEN
         position: Artifical Intelligence and Machine Learning Intern
         location: Lucknow , india
-        start_date: 1933
-        end_date: 1933
-        highlights:
-          - Description 1.
-          - Description 2.
+        start_date: Feb 2026
+        end_date: May 2026
+        summary: Engineered end-to-end computer vision pipelines for satellite image analysis by developing deep learning-based super-resolution models, integrating MobileNet-SSD object detection, implementing real-time anomaly detection algorithms, and deploying interactive MERN-based dashboards for visualization, inference, and model evaluation.
 
       
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
-        highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
 
     Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+      - title: Student excellence award
+        date: 2025
+        awarder: Manipal university jaipur
+        url: 
+        summary: Student Excellence Award for recognition of outstanding  contributions to the ISGC'25 paper and poster presentation.
 
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
-
-    Publications:
-      - title: Zur Elektrodynamik bewegter Körper
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
-
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
-
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+      - title: Student excellence award
+        date: 2026
+        awarder: Manipal university jaipur
+        url:
+        summary: Student Excellence Award for my recent internship at CoreGEN.
 
     Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+    
+      - name: Artificial Intelligence & Machine Learning
+        icon: fa-solid fa-brain
+        keywords: "Machine Learning, Deep Learning, Computer Vision, Explainable AI (XAI), Agentic AI"
+
+      - name: Generative AI & Retrieval Systems
+        
+        icon: fa-solid fa-robot
+        keywords: "Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), LangChain, LlamaIndex, Hugging Face Transformers, vLLM, FAISS, ChromaDB, BM25, ColBERT, HNSW"
+
+      - name: Geospatial AI & Remote Sensing
+      
+        icon: fa-solid fa-satellite
+        keywords: "Satellite Image Processing, NDVI, NDWI, Remote Sensing, Geospatial Analysis, Environmental Monitoring"
+
+      - name: Programming Languages
+      
+        icon: fa-solid fa-code
+        keywords: "Python, C++, C, SQL, JavaScript"
+
+      - name: Libraries & Frameworks
+
+        icon: fa-solid fa-cubes
+        keywords: "PyTorch, TensorFlow, Scikit-learn, OpenCV, Pandas, NumPy, Matplotlib"
+
+      - name: Full-Stack Development
+       
+        icon: fa-solid fa-laptop-code
+        keywords: "MongoDB, Express.js, React.js, Node.js, REST APIs"
+
+      - name: Tools & Platforms
+    
+        icon: fa-solid fa-screwdriver-wrench
+        keywords: "Git, GitHub, Docker, Linux, Jupyter Notebook, Google Colab, VS Code"
 
     Languages:
-      - name: German
+      - name: Hindi
         summary: "Native speaker"
 
       - name: English
         summary: "Fluent"
 
     Interests:
-      - name: Physics
+      - name: Artifical Intelligence
         icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+        keywords: "Agentic AI, Explainable AI, Generative AI, Reinforcement Learning, Multi-Agent Systems"
 
     Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
+      - name: Prompt Engineering & Programming with OpenAI 
+        date: 2025
+        issuer: Columbia University
         icon: fa-solid fa-location-dot
 
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
+      - name: Essentials in Generative AI 
+        date: 2025
+        issuer: Microsoft & LinkedIn
         icon: fa-solid fa-tag
 
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
+      - name: Generative AI Studio
+        date: 2025
+        issuer: Google Cloud
         icon: fa-solid fa-envelope
 
     Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
+      - name: MemoRAG
+        summary: Engineered a memory-augmented RAG pipeline that builds a compressed KV-cache representation of long documents before retrieval, enabling globally-aware query rewriting
+                  and surrogate-question generation for multi-hop and summarization queries that stan-
+                    dard chunk-based RAG handles poorly.
         highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
+          - Evaluated pipeline performance on long-context QA and summarization tasks, comparing standard RAG against the memory-augmented approach for retrieval accuracy and answer completeness
+          - Integrated a dense retrieval layer using FAISS and BGE-M3 embeddings, paired with a lightweight variant (Qwen2.5-1.5B) for lower-resource deployment.
+        start_date: 2025
+        end_date: 2026
+      - name: GETHER
+        summary: Developed a hybrid spatio-temporal air quality forecasting framework combining stacked LSTM networks, causal discovery, and explainable AI to model pollutant interactions and predict Air Quality Index (AQI). The pipeline integrates temporal feature engineering, Granger causality analysis, SHAP-based interpretability, and counterfactual policy simulation for transparent environmental decision support.
+        highlights:
+          - Built a stacked LSTM forecasting model with engineered lag and rolling-statistic features, benchmarked against Linear Regression and Random Forest baselines, while optimizing hyperparameters for improved forecasting accuracy.
+          - Designed a causal inference and explainability module using Granger causality, dynamic causal graphs, SHAP feature attribution, uncertainty estimation, and counterfactual simulations to evaluate the impact of emission-control policies on future AQI.
+        start_date: 2025
+        end_date: 2026
 
-    References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - name: SEVAS
+        summary: Engineered an AI-powered predictive environmental monitoring platform for illegal sand mining and land encroachment detection using multi-temporal satellite imagery, deep learning, and geospatial analysis. The system combines computer vision, spectral analysis, and temporal forecasting to enable proactive environmental enforcement.
+        highlights:
+          - Developed a hybrid vision pipeline integrating a custom U-Net segmentation network, Gemini Vision, NDVI/NDWI spectral indices, and temporal LSTM forecasting to detect environmental degradation, localize mining regions, and predict future violations.
+          - Built a production-ready MERN application with RESTful APIs, automated severity scoring, cross-jurisdictional intelligence, and interactive geospatial visualizations for large-scale environmental monitoring and decision support.
+        start_date: 2025
+        end_date: 2026
 
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+    
