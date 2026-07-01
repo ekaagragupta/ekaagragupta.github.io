@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /repositories/
-title: Skills
+title: skills
 description: GitHub contributions , skill-set , Leetcode contributions
 nav: true
 nav_order: 4
