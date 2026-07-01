@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Google Developer Groups
-description: Google study Jams
+title: Google study Jams
+description: Google Developers Group
 img: assets/img/gdg1.jpeg
 importance: 1
 category: mentoring

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Google Developer Groups
-description: Hands-on Git & GitHub Workshop
+title: Hands-on Git & GitHub Workshop
+description: Google Developers Group
 img: assets/img/gdg1.jpeg
 importance: 1
 category: mentoring
