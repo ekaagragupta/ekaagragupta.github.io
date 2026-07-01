@@ -1,17 +1,14 @@
 ---
 layout: page
 title: Hands-on Git & GitHub Workshop
-description: Google Developers Group
+description: Google Developers Group - Technical CoLead
 img: assets/img/gdg1.jpeg
 importance: 1
 category: mentoring
 ---
 
 
-
-### Hands-on Git & GitHub Workshop
-
-As a mentor with **Google Developer Groups (GDG) On Campus, Manipal University Jaipur**, I conducted a hands-on workshop introducing students to modern version control and collaborative software development using **Git** and **GitHub**.
+As a **MENTOR** with **Google Developer Groups (GDG) On Campus, Manipal University Jaipur**, I conducted a hands-on workshop introducing students to modern version control and collaborative software development using **Git** and **GitHub**.
 
 The session was designed for beginners and focused on building practical skills through live coding and real-world development workflows rather than theory alone. Participants worked alongside the instructor, creating repositories, managing branches, resolving merge conflicts, and collaborating using GitHub.
 

@@ -1,72 +1,54 @@
 ---
 layout: page
 title: Google study Jams
-description: Google Developers Group
-img: assets/img/gdg1.jpeg
+description: Google Developers Group - Technical CoLead
+img: assets/img/jams1.jpeg
 importance: 1
 category: mentoring
 ---
 
+Participated in **Google Study Jams** organized by  **Google Developer Groups (GDG) On Campus, Manipal University Jaipur**, a community-driven learning initiative focused on helping students build practical skills through guided technical sessions and collaborative learning.
 
-
-### Hands-on Git & GitHub Workshop
-
-As a mentor with **Google Developer Groups (GDG) On Campus, Manipal University Jaipur**, I conducted a hands-on workshop introducing students to modern version control and collaborative software development using **Git** and **GitHub**.
-
-The session was designed for beginners and focused on building practical skills through live coding and real-world development workflows rather than theory alone. Participants worked alongside the instructor, creating repositories, managing branches, resolving merge conflicts, and collaborating using GitHub.
 
 <div class="row justify-content-center mt-4">
 
-<div class="col-md-4">
-{% include figure.liquid path="assets/img/gdg1.jpeg" class="img-fluid rounded z-depth-1" %}
+  <div class="col-lg-3 col-md-4">
+    {% include figure.liquid path="assets/img/jams1.jpg" class="img-fluid rounded z-depth-1" %}
+  </div>
+
+  <div class="col-lg-3 col-md-4">
+    {% include figure.liquid path="assets/img/jams2.jpg" class="img-fluid rounded z-depth-1" %}
+  </div>
+
+  <div class="col-lg-3 col-md-4">
+    {% include figure.liquid path="assets/img/jams3.jpg" class="img-fluid rounded z-depth-1" %}
+  </div>
+
 </div>
 
-<div class="col-md-4">
-{% include figure.liquid path="assets/img/gdg2.jpg" class="img-fluid rounded z-depth-1" %}
-</div>
+<a class="btn btn-primary"
+href="https://www.linkedin.com/posts/ekaagragupta_googlestudyjams-gdgoncampus-gdgmuj-ugcPost-7447518082677280769-T_1y/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE7x-N8B8gnVXr_73MwFp_r90yw3XzDRrIc"
+target="_blank">
+🔗 View LinkedIn Post
+</a>
 
-<div class="col-md-4">
-{% include figure.liquid path="assets/img/gdg4.jpg" class="img-fluid rounded z-depth-1" %}
-</div>
+The program provided an opportunity to explore emerging technologies, strengthen problem-solving abilities, and gain hands-on exposure to modern development tools. Beyond the technical sessions, it fostered meaningful interactions with fellow student developers, mentors, and the broader developer community.
 
-</div>
+### Highlights
 
-### Topics Covered
+- Participated in instructor-led technical learning sessions
+- Explored modern software development tools and industry practices
+- Engaged in collaborative discussions and peer learning
+- Connected with the campus developer community through GDG events
+- Received official Google Study Jams participation swags
 
-- Introduction to Version Control Systems
-- Installing and configuring Git
-- Git workflow and repository initialization
-- Creating and managing branches
-- Commit history and best practices
-- Merge conflicts and conflict resolution
-- Working with remote repositories
-- GitHub Pull Requests
-- Issues and Project Discussions
-- Forking and contributing to Open Source
-- GitHub Pages deployment
-- Professional GitHub profile optimization
+### Key Takeaways
 
-### Hands-on Activities
+- Practical, hands-on learning over theoretical concepts
+- Exposure to real-world development workflows
+- Networking with developers and student communities
+- Continuous learning through Google's developer ecosystem
 
-Participants completed practical exercises including:
+### Technologies & Topics
 
-- Creating a local Git repository
-- Connecting to GitHub
-- Branch creation and merging
-- Raising Pull Requests
-- Reviewing and merging code
-- Resolving merge conflicts
-- Collaborating on a shared repository
-- Making their first Open Source contribution workflow
-
-### Impact
-
-- Mentored **120+ undergraduate students**
-- Helped beginners become comfortable with Git-based development workflows
-- Encouraged participation in Open Source through GDG and GitHub
-- Guided students in maintaining clean commit histories and collaborative development practices
-- Answered technical queries and provided one-on-one mentoring during the hands-on session
-
-### Technologies
-
-`Git` • `GitHub` • `GitHub Desktop` • `GitHub Pages` • `Markdown` • `Version Control` • `Open Source`
+`Google Developer Groups` • `Google Study Jams` • `Cloud` • `Web Development` • `AI/ML` • `Developer Tools` • `Open Source`
