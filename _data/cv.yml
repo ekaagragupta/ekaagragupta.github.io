@@ -3,8 +3,8 @@ cv:
   label: Computer science undergraduate
   email: ekaagrag2006@gmail.com
   location: Rajasthan , India
-  image: # [/download CV]{assests/pdf/ekaagra_Cv.pdf}
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+  image: [/assets/images/prof_pic.jpg]
+  summary: I am a highly motivated and passionate computer science undergraduate with a strong interest in artificial intelligence and machine learning. I have a solid foundation in computer science principles and programming languages, and I am eager to apply my skills to real-world problems. I am a quick learner, a team player, and I thrive in collaborative environments. My goal is to contribute to the development of innovative AI solutions that can make a positive impact on society.
 
   social_networks:
     - network: Instagram
