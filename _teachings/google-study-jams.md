@@ -31,15 +31,6 @@ The session was designed for beginners and focused on building practical skills 
 
 </div>
 
-<div class="caption">
-<a class="btn btn-primary"
-   href="https://www.linkedin.com/posts/YOUR_POST_LINK"
-   target="_blank"
-   rel="noopener noreferrer">
-    🔗 View LinkedIn Post
-</a>
-</div>
-
 ### Topics Covered
 
 - Introduction to Version Control Systems

@@ -31,8 +31,14 @@ The session was designed for beginners and focused on building practical skills 
 
 </div>
 
+
 <div class="caption">
-Hands-on Git & GitHub workshop conducted as a mentor for Google Developer Groups (GDG) On Campus, Manipal University Jaipur.
+<a class="btn btn-primary"
+   href="https://www.linkedin.com/posts/gdscmuj_on-9th-october-google-developer-groups-on-activity-7383966187266912256-haoT?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE7x-N8B8gnVXr_73MwFp_r90yw3XzDRrIc"
+   target="_blank"
+   rel="noopener noreferrer">
+    🔗 View LinkedIn Post
+</a>
 </div>
 
 ### Topics Covered
