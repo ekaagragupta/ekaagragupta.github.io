@@ -189,6 +189,8 @@ collections:
     output: true
   teachings:
     output: true
+  experience:
+    output: true
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
