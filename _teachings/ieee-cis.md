@@ -3,7 +3,7 @@ layout: page
 title: IEEE CIS
 description: Joint Head — Sponsorship & Curation
 img: assets/img/ieee.jpeg
-importance: 1
+importance: 2
 ---
 ## IEEE Computational Intelligence Society (IEEE CIS)
 
