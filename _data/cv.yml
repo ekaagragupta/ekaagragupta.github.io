@@ -69,16 +69,6 @@ cv:
         end_date: May 2026
         summary: Engineered end-to-end computer vision pipelines for satellite image analysis by developing deep learning-based super-resolution models, integrating MobileNet-SSD object detection, implementing real-time anomaly detection algorithms, and deploying interactive MERN-based dashboards for visualization, inference, and model evaluation.
 
-    Leadership :
-      - company: Malaviya National Institute of Technology Jaipur (MNIT)
-        position: Artifical Intelligence Intern
-        location: Jaipur, Rajasthan
-        start_date: May 2026 
-        end_date: July 2026
-        summary: Engineering a production-scale Retrieval-Augmented Generation (RAG) system integrating dense retrieval, lexical retrieval, transformer-based reranking, and GPU-optimized large language model inference. The project involves memory-efficient document indexing, metadata-aware retrieval optimization, vLLM-based inference acceleration, FlashAttention, KV-cache optimization, continuous batching, and comprehensive benchmarking of latency, throughput, memory footprint, and retrieval quality across large document corpora.
-
-        
-
     Awards:
       - title: Student excellence award
         date: 2025
