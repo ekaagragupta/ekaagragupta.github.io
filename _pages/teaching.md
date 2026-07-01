@@ -1,15 +1,55 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Course materials, schedules, and resources for classes taught.
+title: community
+description: Workshops, mentoring, technical talks, and community contributions.
 nav: true
 nav_order: 6
-calendar: true
+
+display_categories:
+  - mentoring
+  - community
+
+horizontal: false
 ---
 
-This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
+{% assign teachings = site.teachings | sort: "importance" %}
 
-{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
+{% if page.display_categories %}
+  {% for category in page.display_categories %}
 
-{% include courses.liquid %}
+  <a id="{{ category }}"></a>
+  <div class="publications">
+    <h2 class="category">{{ category }}</h2>
+
+    {% assign categorized = teachings | where: "category", category %}
+
+    {% if page.horizontal %}
+      <div class="container">
+        <div class="row row-cols-1 row-cols-md-2">
+          {% for item in categorized %}
+            {% include projects_horizontal.liquid %}
+          {% endfor %}
+        </div>
+      </div>
+    {% else %}
+      <div class="grid">
+        {% for item in categorized %}
+          {% include projects.liquid %}
+        {% endfor %}
+      </div>
+    {% endif %}
+
+  </div>
+
+  {% endfor %}
+
+{% else %}
+
+<div class="grid">
+{% for item in teachings %}
+{% include projects.liquid %}
+{% endfor %}
+</div>
+
+{% endif %}
