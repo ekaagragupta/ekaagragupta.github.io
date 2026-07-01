@@ -4,7 +4,6 @@ title: Hands-on Git & GitHub Workshop
 description: Google Developers Group - Technical CoLead
 img: assets/img/gdg1.jpeg
 importance: 1
-category: mentoring
 ---
 
 

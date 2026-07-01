@@ -6,9 +6,6 @@ description: Workshops, mentoring, technical talks, and community contributions.
 nav: true
 nav_order: 6
 
-display_categories:
-  - mentoring
-  - community
 
 horizontal: false
 ---

@@ -4,7 +4,6 @@ title: Google study Jams
 description: Google Developers Group - Technical CoLead
 img: assets/img/jams1.jpeg
 importance: 1
-category: mentoring
 ---
 
 Participated in **Google Study Jams** organized by  **Google Developer Groups (GDG) On Campus, Manipal University Jaipur**, a community-driven learning initiative focused on helping students build practical skills through guided technical sessions and collaborative learning.
