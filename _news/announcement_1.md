@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2026-06-01
+date: 2026-02-16 10:00:00 +0530
 inline: true
-related_posts: false
 ---
 
+Ekaagra joined a new position as an [AI-ML Intern At Coregen](/experience/)
 
