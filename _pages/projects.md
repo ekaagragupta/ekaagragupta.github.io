@@ -4,7 +4,7 @@ title: projects
 permalink: /projects/
 description: ⟡ ⋆ why code works, not just syntax ⋆ ⟡
 nav: true
-nav_order: 3
+nav_order: 4
 display_categories: [work,open-source]
 horizontal: false
 ---

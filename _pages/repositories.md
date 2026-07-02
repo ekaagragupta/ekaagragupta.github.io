@@ -4,7 +4,7 @@ permalink: /repositories/
 title: skills
 description: GitHub contributions , skill-set , Leetcode contributions
 nav: true
-nav_order: 4
+nav_order: 5
 ---
 ---
 # Github Activity

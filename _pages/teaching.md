@@ -4,7 +4,7 @@ permalink: /teaching/
 title: community
 description: Workshops, mentoring, technical talks, and community contributions.
 nav: true
-nav_order: 6
+nav_order: 3
 
 
 horizontal: false
