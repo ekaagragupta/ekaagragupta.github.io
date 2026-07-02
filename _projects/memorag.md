@@ -14,6 +14,9 @@ Standard RAG systems retrieve document chunks directly from a query. This works 
 - <strong>High-level aggregation</strong> : e.g. "How did the pandemic impact the company?" requires synthesizing many passages
 - <strong>Open-ended summarization</strong> : summary instructions aren't directly searchable
 
+##### Repository
+The complete implementation is available on
+[GitHub](https://github.com/ekaagragupta/mem0RAG).
 
 
 MemoRAG addresses all three failure modes by using a lightweight memory model to first recall relevant clues and draft candidate answers, then retrieve precise evidence, then generate the final response by first building a compressed global memory of the full context, MemoRAG enables the retriever to be globally aware — generating precise clues and surrogate queries before retrieval, resulting in dramatically more accurate and complete answers.
@@ -33,11 +36,6 @@ MemoRAG addresses all three failure modes by using a lightweight memory model to
     %}
   </div>
 </div>
-
-### Repository
-
-The complete implementation is available on
-[GitHub](https://github.com/ekaagragupta/mem0RAG).
 
 #### Core Pipeline
  
