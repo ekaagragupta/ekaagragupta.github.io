@@ -25,12 +25,6 @@ nav_order: 5
       alt="GitHub Stats">
   </div>
 
-  <div class="col-md-4 mb-3">
-    <img
-      src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ekaagragupta&layout=compact&theme=transparent&hide_border=true"
-      class="img-fluid"
-      alt="Top Languages">
-  </div>
 
   <div class="col-md-4 mb-3">
     <img
