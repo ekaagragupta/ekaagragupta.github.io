@@ -27,7 +27,7 @@ The internship focused on building a **production-scale retrieval pipeline** cap
   <div class="col-lg-3 col-md-4 col-sm-4">
     {% include figure.liquid
       loading="eager"
-      path="assets/img/m1.jpeg"
+      path="assets/img/picMNIT.JPG"
       class="img-fluid rounded z-depth-1"
     %}
   </div>
@@ -62,7 +62,7 @@ The project involved designing and optimizing every stage of the retrieval pipel
 
 <img src="/assets/img/m3.png" class="img-fluid rounded" style="margin-bottom:15px;">
 
-<img src="/assets/img/m2.jpeg" class="img-fluid rounded" style="margin-bottom:15px;">
+<img src="/assets/img/m1.jpeg" class="img-fluid rounded" style="margin-bottom:15px;">
 
 <img src="/assets/img/m5.png" class="img-fluid rounded">
 
@@ -111,7 +111,7 @@ The objective was to engineer a scalable hybrid retrieval pipeline capable of:
 | **Programming Language** | Python |
 | **Deep Learning & AI** | PyTorch, Hugging Face Transformers, SentenceTransformers |
 | **Large Language Models (LLMs)** | Qwen3-Embedding-4B, Qwen Reranker |
-| **Retrieval & Information Retrieval** | Retrieval-Augmented Generation (RAG), Hybrid Search, Dense Retrieval, Sparse Retrieval, BM25, Lucene, HNSW Indexing, ColBERT, Reciprocal Rank Fusion (RRF), Multi-Query Retrieval, Cross-Encoder Reranking |
+| **Retrieval & Information Retrieval** | Retrieval-Augmented Generation (RAG), Hybrid Search, Dense Retrieval, Sparse Retrieval, BM25, Lucene,ANN indexing, HNSW Indexing, ColBERT, Reciprocal Rank Fusion (RRF), Multi-Query Retrieval, Cross-Encoder Reranking |
 | **Data Processing** | Pandas, NumPy, PyArrow, Apache Parquet |
 | **Performance Engineering** | Memory Optimization, Metadata Engineering, Pipeline Optimization, Performance Benchmarking, GPU Computing |
 | **Infrastructure & Development** | CUDA, NVIDIA A10 GPU, Linux, Conda, Bash, VS Code Remote |
