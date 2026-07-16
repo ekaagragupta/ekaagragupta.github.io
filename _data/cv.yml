@@ -66,7 +66,7 @@ cv:
         position: Artifical Intelligence Research Intern
         location: Jaipur, Rajasthan
         start_date: May 2026 
-        end_date: July 2026
+        end_date: June 2026
         summary: Performed fine-grained memory attribution across individual RAG pipeline operators to isolate high-overhead components, informing architectural optimizations for scalable LLM inference.     
               
 
