@@ -43,7 +43,7 @@ The internship focused on building a **production-scale retrieval pipeline** cap
   <div class="col-lg-3 col-md-4 col-sm-4">
     {% include figure.liquid
       loading="eager"
-      path="assets/img/m6.png"
+      path="assets/img/certificatemnit.png"
       class="img-fluid rounded z-depth-1"
     %}
   </div>
@@ -62,7 +62,7 @@ The project involved designing and optimizing every stage of the retrieval pipel
 
 <img src="/assets/img/m3.png" class="img-fluid rounded" style="margin-bottom:15px;">
 
-<img src="/assets/img/m1.jpeg" class="img-fluid rounded" style="margin-bottom:15px;">
+<img src="/assets/img/m6.png" class="img-fluid rounded" style="margin-bottom:15px;">
 
 <img src="/assets/img/m5.png" class="img-fluid rounded">
 
